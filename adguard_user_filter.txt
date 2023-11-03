@@ -13,6 +13,7 @@
 ||sovetnik.yandex.ru^
 ||www.jaguar.ru$app=ru.yandex.yandexnavi
 ||yastatic.net$app=ru.yandex.yandexnavi
+||bugsnag.com^
 onliner.by###inner-wide-shop-banner
 onliner.by##.b-ab-layer
 onliner.by##.b-ba-layer
