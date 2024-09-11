@@ -34,3 +34,361 @@ onliner.by##div.b-main-page-news-2.b-main-page-grid-4:nth-of-type(8)
 onliner.by###onliner-best-layer
 onliner.by##div.b-main-page-news-2.b-main-page-grid-4:nth-of-type(17)
 onliner.by##.ba-newtopic-important-wrp-main.ba-newtopic-important-wrp
+duckduckgo.com###footer_homepage, #powered_by, .add-to-browser-badge, .foot-home.js-foot-home, .results--powered, .tag-home, .tag-home.tag-home--slide.no-js__hide.js-tag-home
+google.*###pushdown, .gb_qa, .pdp-psy, .gb_Fb.gb_pb.gb_Ra
+mail.yandex.ru##.b-mail-domik__social
+passport.yandex.ru##.domik-social
+rsload.net###loga
+rutor.org##.sideblock2
+stream.1tv.ru##.tv_banner
+www.1tv.ru##.tv_banner
+www.google.com###pushdown, .pdp-psy
+www.google.ru###pushdown, .pdp-psy
+www.youtube.com##.alerts-wrapper, #ticker, #yt-lang-alert-container
+yandex.ru##.b-head-stripe__inner, .head-stripe.i-bem.head-stripe_js_inited, .internal-stripe__content
+yadi.sk##.content-poster-public__poster, .content-poster-public__bg, .content-poster-public__button
+onliner.by##.b-tiles.cfix, .b-top-line-1, .b-cat-line, .b-tiles.cfix.col-2-wide, .b-main-page-grid-6.b-main-page-ab-layer, .b-ba-layer, .b-main-page-grid-5, .g-bottom, .b-main-page-blocks-footer-3.cfix, [href^="http://gomel.onliner.by/"], .b-top-navigation__additional-links, .b-opinions-main, #container > .g-container-outer > .l-gradient-wrapper:nth-of-type(2) > .g-middle:nth-of-type(2) > .g-middle-i > .b-main-page-grid-4.b-main-page-news-2:nth-of-type(4) > .b-main-page-blocks-header-2.cfix:nth-of-type(1), .b-main-page-grid-4__col.b-main-page-grid-4__col-1x1.news-2__forum-news-list-col, .auth-bar__item.auth-bar__item--twitter.auth__icon.auth__icon--twitter, .auth-bar__item.auth-bar__item--vk.auth__icon.auth__icon--vk
+komplat.by## #left-banner-adv, #right-banner-adv-fiz, #copyright, #banner-section, #weather-container
+forum.fonarevka.ru## table[width="100%"][align="center"] > tbody > tr > td[valign="top"]
+banana.by## .h_stats, .h_ads, .simple_block.news, .right_banner, .simple_block, .online_users, #footer, .simple_block, .another_news
+ukrshopper.info## .socialbutton, .block.Blockseditor, section.block.block-type-stream, .block.block-type-blogs, #footer-first-line, #footer-second-line, .top-user-panel, .social-links-header.clearfix, .block.Besttopicsflow, .block.EmptyBlock
+tracer.ru## #sidebar, ins.adsbygoogle
+profile.onliner.by## .b-whbd.h-btm-whbd
+forum.onliner.by## .tpoflnk, .onav__aof, .h-statistic, .b-whbd.h-btm-whbd, .b-columntopic.columntopic-hdlist, .b-forum-social-btns.social-likes, .b-autobaraholka-banner-2, #like-buttons
+baraholka.onliner.by## .tpoflnk, .onav__aof, .ba-newtopic-important-wrp.ba-newtopic-important-wrp-main, .b-whbd.h-btm-whbd, .b-fleamarket__right-block.important, .b-fleamarket__right-block, .catalog-banner, .b-ba-ainfo.b-ba-sidecont, .b-ba-ainfo.b-ba-sidecont.b-ba-sorbd, #like-buttons
+cxem.net## .cont_right, .wrap > div[align="center"]
+torrents.by## .pluso.pluso-theme-light.pluso-small, .pluso.pluso-theme-light, #tr_main_cats, #sms_panel, #page_footer, td#sidebar1
+cool-arena.net## #news-id-20063 > table, td.rcol[valign="top"] > center, td.rcol[valign="top"] > noindex > div[align="center"], td.lcol[valign="top"] > div.textb > li, td.lcol[valign="top"] > noindex > div[align="center"], .postnews
+
+!! список фильтров для форума Ru-Board
+!! автор: ALeXkRU, + Zakkazak, Alaska14
+!! версия: 5.33 (13.08.2015)
+!! ==========================
+forum.ru-board.com||i.ru-board.com/temp/*
+forum.ru-board.com||forum.ru-board.com/board/temp/*
+forum.ru-board.com##*google-analytics.com/*
+forum.ru-board.com##a[href*="yadro.ru"]
+forum.ru-board.com##a[href^="/images/"]
+forum.ru-board.com##[id*="kupitraff"], [class*="kupitraff"]
+forum.ru-board.com##*pc120.com/*
+forum.ru-board.com##[id*="banner"], [class*="banner"]
+forum.ru-board.com##a[href^="/board/temp/cisco/"]
+forum.ru-board.com##a[href^="/board/temp/jino/"]
+forum.ru-board.com##a[href^="/board/temp/itech-promo/"]
+forum.ru-board.com##*smart-soft.ru/*
+forum.ru-board.com##a[href*="sprinthost.ru"]
+forum.ru-board.com##a[href*="srv-trade"]
+forum.ru-board.com##*tb.beeline.ru/*
+forum.ru-board.com##[id^="iframe"]:not(iframe[id="hid_iframe"])
+forum.ru-board.com@@|http://forum.ru-board.com/forall/ajax/insert_tags/color_picker.htm
+forum.ru-board.com@@|http://forum.ru-board.com/forall/ajax/insert_tags/make_table.htm
+forum.ru-board.com@@|http://forum.ru-board.com/forall/ajax/insert_tags/list.htm
+forum.ru-board.com##center > br > a.small
+forum.ru-board.com##[width="468"][height="60"]
+forum.ru-board.com##body > table:nth-of-type(1) tbody tr td.sh1
+forum.ru-board.com##body > table:nth-of-type(4):not(a[href="messanger.cgi?action=inbox"])
+forum.ru-board.com##body > table[bgcolor="#FFFFFF"]:nth-of-type(6) tbody tr:not(td.tit)
+forum.ru-board.com##body > table[bgcolor="#FFFFFF"]:nth-of-type(6) tbody tr:not(td.dats)
+forum.ru-board.com##body > table[bgcolor="#FFFFFF"]:nth-of-type(6) > tbody > tr > td[align="left"]:not(td.dats)
+forum.ru-board.com##body > table:nth-of-type(7) tbody tr:nth-of-type(2) > td:not(td.dats)
+forum.ru-board.com##body > table:nth-of-type(7) tbody tr:nth-of-type(2) > td table[width^="7"]
+forum.ru-board.com##body > table:nth-of-type(7) tbody tr:nth-of-type(2) > td table[width^="5"]
+forum.ru-board.com##body > table:nth-of-type(7) tbody tr:nth-of-type(2) > td table[width^="6"]
+forum.ru-board.com##body > table:nth-of-type(7) tbody tr:nth-of-type(1) > td table[width^="5"]
+forum.ru-board.com##body > table:nth-of-type(7) tbody tr > td table[width^="8"]
+forum.ru-board.com##body > table:nth-of-type(6) tbody tr:nth-of-type(2) > td table[width^="8"]
+forum.ru-board.com##body > table:nth-of-type(6) tbody tr:nth-of-type(2) > td table[width^="5"]
+forum.ru-board.com##body > table:nth-of-type(6) tbody tr:nth-of-type(2) > td table[width^="6"]
+forum.ru-board.com##body > table:nth-of-type(6) tbody tr:nth-of-type(2) > td table[width^="7"]
+forum.ru-board.com##body > table:nth-of-type(8) tbody tr:nth-of-type(2) td table[cellpadding="0"][cellspacing="0"]
+forum.ru-board.com##body > table:nth-of-type(8) tbody tr td.dats table tbody tr td.dats
+forum.ru-board.com##body > table:nth-of-type(8) tbody tr > td table[width^="8"]
+forum.ru-board.com##body > table:nth-of-type(8) tbody tr > td table[width^="6"]
+forum.ru-board.com##body > table:nth-of-type(8) tbody tr > td table[width^="5"]
+forum.ru-board.com##body > table:nth-of-type(9) tbody tr > td table[width^="6"]
+forum.ru-board.com##body > table:nth-of-type(9) tbody tr > td table[width^="5"]
+forum.ru-board.com##body > table:nth-of-type(9) tbody tr > td table[width^="8"]
+forum.ru-board.com##body > table:nth-of-type(2) tbody > tr > td:nth-of-type(2)[align="left"]
+forum.ru-board.com##body > table:nth-of-type(2) tbody > tr > td[align="left"]
+forum.ru-board.com##body > table:nth-of-type(5) > tbody > tr:nth-of-type(2) > td > table[width^="8"]
+forum.ru-board.com##table[cellpadding="5"][cellspacing="0"][width="560"]
+forum.ru-board.com##table[cellpadding="5"][cellspacing="0"][width="660"]
+forum.ru-board.com##body > br
+forum.ru-board.com##body > center > br
+forum.ru-board.com##body > center > center
+forum.ru-board.com##body > center > table[width="80%"]
+forum.ru-board.com##body > table:nth-of-type(1) > tbody > tr > td:nth-of-type(2):not(table[align="center"][width="640"])
+forum.ru-board.com##body center a.small
+forum.ru-board.com##body p + center
+forum.ru-board.com##body br + center
+forum.ru-board.com##td[align="right"][class="dats"][valign="middle"]
+forum.ru-board.com##iframe[src*="adriver"]
+forum.ru-board.com##span.dats:style(position: relative !important; top: 10px !important;)
+forum.ru-board.com@@table[id="table1"]
+forum.ru-board.com@@div#fix_tg_pan
+forum.ru-board.com##a[href*="adriver"]
+forum.ru-board.com##a[href*="infoads"]
+forum.ru-board.com##embed[src*="board/temp/"]
+forum.ru-board.com##.toolbar-on-top
+forum.ru-board.com##[id*="beeline"]
+!!    скрываем рекламные ссылки (СПАМ) в сообщениях
+forum.ru-board.com##a[href^="http://forum.ru-board.com/"][href$="/"][target="_blank"]:style(color:#333!important; text-decoration:none; pointer-events:none!important;)
+!!    уплотняем верх страницы, убираем текстовую рекламу
+forum.ru-board.com##br + br + table[width="95%"][cellpadding="2"]
+!! правый баннер
+forum.ru-board.com##body > table:nth-of-type(1) tbody tr td[align="right"]
+!! =======   ПРАВКА  СТРУКТУРЫ   =======
+!! смещаем логотип Ru-Board вниз, на уровень верхнего меню
+!!! не работает вместе со следующим правилом и вытянутым в строку меню!! (для отключения фильтра перед строкой поставить ! (восклицательный знак)
+forum.ru-board.com##img[src="http://i.ru-board.com/images/remake1.gif"]:style(position:absolute!important; top:0px!important; left:0px!important;)
+forum.ru-board.com##img[src="http://i.ru-board.com/images/ru-board_ny_new.gif"]:style(position:absolute!important; top:0px!important; left:0px!important;)
+!! убираем логотип Ru-Board (для отключения фильтра перед строкой поставить ! (восклицательный знак)
+!forum.ru-board.com##body > table:nth-of-type(1)[width="95%"][cellpadding="0"][align="center"]:not([cellpadding="3"])
+!! ОБЛАГОРАЖИВАЕМ ВИД
+!!       верхнее меню -> в одну строку
+!forum.ru-board.com##body > table:nth-of-type(2) > tbody > tr > td.sh1 > br
+!forum.ru-board.com##body > table:nth-of-type(2) > tbody > tr > td.sh1 > a:nth-of-type(2)::after {content:"  • ";color:#000000!important;}
+!forum.ru-board.com##body > table:nth-of-type(2) > tbody > tr > td.sh1 > a:nth-of-type(5)::after {content:"  • ";color:#000000!important;}
+!!       ширина поля с никами/аватарами. Значение (10% - 12%) зависит от разрешения монитора!
+forum.ru-board.com##table.tb td[class="dats"]:style(width:10%!important;)
+!!       обрезка длинных имён и титлов (при наведении курсора имя будет видно полностью)
+!forum.ru-board.com##a.m> b {width: 6em !important; display: inline-block !important; overflow: hidden !important;}
+!forum.ru-board.com##a.m> b:hover {overflow: visible !important;}
+!!       затеняем часть элементов вокруг поста
+forum.ru-board.com##td.tpc:style(color: #9C9C9C!important;)
+forum.ru-board.com##td.bottomline:style(color: #9C9C9C!important;)
+forum.ru-board.com##span.tpc:style(color: #9C9C9C!important;)
+forum.ru-board.com##a.tpc:style(color: #9C9C9C!important;)
+forum.ru-board.com##hr[size="1"][width="100%"][color="#9C9C9C"]:style(visibility:hidden!important;)
+!!       затеняем подпись
+forum.ru-board.com##table[class="sing"] a, table[class="sing"] td:style(color:#9C9C9C!important;)
+!!      затеняем список страниц и меню возврата при просмотре одного сообщения
+forum.ru-board.com##td.small a:style(font-size:8px!important; color:#9C9C9C!important;)
+forum.ru-board.com##td.small b:style(color:#9C9C9C!important; border-color:#9C9C9C!important; border-style:solid!important; border-top-width:2px!important; border-right-width:2px!important; border-bottom-width:2px!important; border-left-width:2px!important;)
+!! !!   =====================================
+!!  ЭКСТРИМ!! (желающие раскомментируют нужное.. ПРАВИЛА МОГУТ РАБОТАТЬ НЕКОРРЕКТНО!
+!! !!   =====================================
+!!       первый пост/шапка свёрнут - "СПОЙЛЕР" от Zakkazak
+!forum.ru-board.com##body>script+table.tb>tbody>tr>td>table>tbody>tr:first-of-type{position: relative !important; display: block !important; height: 2em !important;width: 16em !important; overflow: auto !important; border-color: SlateGrey !important; border-style: solid !important;border-width: 4px !important;}
+!forum.ru-board.com##body>script+table.tb>tbody>tr>td>table>tbody>tr:first-of-type:hover {height: 70em !important; width: auto !important;} ! сам спойлер
+!forum.ru-board.com##body>script+table.tb td.tpc {position: absolute !important;}
+!forum.ru-board.com##body>script+table.tb>tbody>tr>td>table::before {content: "СПОЙЛЕР! Сообщение скрыто. Навести курсор для просмотра содержимого "; color:#DA1006!important;}
+!!       первый пост во всю ширину экрана  !! НЕ ВИДЕН АВТОР поста/шапки!
+!forum.ru-board.com##body>script+table.tb td.dats {display: none;}
+!!       уменьшаем размер изображений в шапке
+forum.ru-board.com##body > script + table.tb td.tpc img:style(max-height: 35px !important;)
+!!       и возвращаем при наведении курсора
+forum.ru-board.com##body > script + table.tb td.tpc img:hover:style(max-height: 100% !important;)
+!!       убираем строку с кнопками  "Новая тема", "Создать опрос"..
+forum.ru-board.com##body > table > tbody > tr > td[bgcolor="#dddddd"][align="left"][valign="middle"]
+!!       режем  Цитата, Добавлено, пустое место !! ОСТОРОЖНО
+!forum.ru-board.com##body>:not(script)+ table.tb span.post> small> b, body> :not(script)+ table.tb span.post> b> small
+!forum.ru-board.com##table+ br, table+ br+ br, center+ br, input+ br
+!!       убираем сверху строку с модераторами и подтягиваем третью строчку к первой !! ОСТОРОЖНО
+!forum.ru-board.com##body > table:nth-of-type(7) > tbody > tr >td.dats > b
+!forum.ru-board.com##body > table:nth-of-type(7) > tbody > tr >td.dats > br
+!!       убираем верхнюю адресную строку сайта
+!forum.ru-board.com##body > table:nth-of-type(5) > tbody > tr > td[align="left"]
+!!       убираем нижнюю адресную строку сайта
+!forum.ru-board.com##body > p:nth-of-type(2) > table[cellspacing="1"][cellpadding="3"]
+forum.ru-board.com## body > p > br
+!!    подсветка и предупреждение о рекламных ссылках (СПАМ) в сообщениях
+!!    скрываем ссылку и подчеркиваем пунктиром
+!forum.ru-board.com##a[href^="http://forum.ru-board.com/"][href$="/"][target="_blank"]{color:#333!important; text-decoration: none; border-bottom: 1px dashed #333 !important;}
+!!    скрываем СПАМ-ссылки
+forum.ru-board.com##a[href^="http://forum.ru-board.com/"][href$="/"][target="_blank"]
+!!    добавляем предупреждение о СПАМ-ссылке
+!forum.ru-board.com##a[href^="http://forum.ru-board.com/"][href$="/"][target="_blank"]:after {content: " ( !!!СПАМ-ссылка! ОСТОРОЖНО! ..ваш Ad-Охотник)"; color:#DA70D6!important;}
+!!       изменить размер шрифта на странице
+!forum.ru-board.com##*{font-size: 12pt!important}
+!!       убираем меню Новости-Файловые архивы-Поиск-Активные темы-Топ лист-Правила-Фотогалерея-Газета-Кто в on-line?
+!!       (требуется убрать логотип (см. выше, Правка структуры))
+!forum.ru-board.com##td[class="sh1"]
+!!       включаем подпись
+!forum.ru-board.com##input[name="signature"]{color:#003399!important;"checked" !important;}
+!!       игнор-лист: копируем строку, заменяем НИК_в_ИГНОР, удаляем ! -воскл.знак- в начале
+!forum.ru-board.com##a.tpc[href$="НИК_в_ИГНОР"] ~ .post
+!! === конец фильтра ===
+
+!! список фильтров для rutracker.org##
+!! версия: 2.3 (28.09.2012)
+!! ==========================
+!! Блокируемые источники банеров
+!! ==========================
+rutracker.org##*dt00.net/*
+rutracker.org##*ddestiny.ru/*
+rutracker.org##a[href^="http://partner.nekki.ru/"]
+rutracker.org##a[href^="http://195.214.194.1/"]
+rutracker.org##a[href^="http://195.82.146.52/"]
+rutracker.org##a[href^="http://smart.besonders.ru/"]
+rutracker.org##a[href^="http://static.terrhq.ru/"]
+rutracker.org##*mail.ru/*
+rutracker.org##[id*="banner"]
+rutracker.org##[src*="autocontext.begun.ru"]
+rutracker.org##[id*="rmbn"]
+rutracker.org##[id*="gamenet"]
+rutracker.org##[src*="counter.yadro.ru"]
+rutracker.org##[id*="rambler"]
+rutracker.org##*backromy.com/*
+rutracker.org##[src*="steamac.com"]
+!! ==========================
+!! Блокируемые элементы форума
+!! ==========================
+rutracker.org##td[class="vBottom"]
+rutracker.org##td[style="width: 240px; vertical-align: top; padding-left: 2px;"]
+rutracker.org##div[id="adriver-240x120"]
+rutracker.org##div[id="dd-top"]
+rutracker.org##div[id="ddest-bn-1"]
+rutracker.org##div[id="bn-9d-1"]
+rutracker.org##div[id="glad-idx"]
+rutracker.org##div[id="bn-tio-1"]
+rutracker.org##div[id="owo-idx-5"]
+rutracker.org##div[id="adriver-468x60"]
+rutracker.org##div[id="begun-t-user"]
+rutracker.org##div[id="bn-bot-wrap"]
+rutracker.org##div[class="soc_share"]
+rutracker.org##[id^="begun_ad"]
+rutracker.org##div[id*="adriver"]
+rutracker.org##div#logo > table > tbody > tr > td.tCenter
+rutracker.org##img[src^="bn-stub-"]
+rutracker.org##div[class*="tCenter"]:not(div.tCenter[style="padding: 4px 0 6px;"])
+rutracker.org##div#owo-idx-6.tCenter
+rutracker.org##a[href*="Banner"]
+rutracker.org##div[id*="-bn-1"]
+rutracker.org##div#wiw-idx
+rutracker.org##div#idx-3
+!! логотип
+rutracker.org##div#logo
+!! === конец фильтра ===
+
+!! список фильтров для rutor.org##
+!! автор: ALeXkRU
+!! версия: 1.4 (01.12.2012)
+!! ==========================
+rutor.org##*yadro.ru/*
+rutor.org##*adriver.ru/*
+rutor.org##*rutor.org.nyud.net/*
+rutor.org##*openstat.net/*
+rutor.org##*tns-counter.ru/*
+rutor.org##*am10.ru/*
+rutor.org##[src*="rarenok"]
+rutor.org##[id*="mbn"]
+rutor.org##[src*="counter"]
+rutor.org##[id*="banner"]
+rutor.org##[src*="add5.ru"]
+rutor.org##[src*="dvadzat5.biz"]
+rutor.org##[src*="ekod.info"]
+rutor.org##[id*="TRurl_adv"]
+rutor.org##[id*="TRshow"]
+rutor.org##[src*="blastcasta"]
+rutor.org##[src*="mail.ru"]
+rutor.org##[src*="mc.yandex.ru"]
+rutor.org##[src*="spotr-expert.info"]
+rutor.org##[src*="hapend.biz"]
+rutor.org##[src*="3file.info/images/"]
+rutor.org##body div#ws div#sidebar div.sideblock:nth-of-type(5)
+rutor.org##body div#ws div#sidebar div.sideblock2:nth-of-type(6)
+rutor.org##iframe
+rutor.org##div#down
+rutor.org##[class="_1"]
+rutor.org###TRurl_adv
+rutor.org##div#logo
+rutor.org##script[src*="ekod"]
+rutor.org##div[id^="b_tz_"]
+!! оформление от  zuefhrf
+rutor.org##div#ws div#sidebar:style(top: 0px !important;)
+rutor.org##div#ws div#sidebar:style(right: 8px !important;)
+rutor.org##div#ws div#sidebar div.sideblock:style(margin-top: 0px !important;)
+rutor.org##div#ws div#content:style(right: 6px !important;)
+rutor.org##h3:style(text-align: left !important;)
+!! === конец фильтра ===
+
+! site 4pda.ru##
+! author Buba5473
+! date 2015-08-25
+4pda.ru##a[href*="warthunder.ru"]
+4pda.ru##a[href^="http://4pda.ru/advert/"]
+4pda.ru##a[href^="http://awaps.yandex.net/"]
+4pda.ru##a[href^="http://counter.yadro.ru/"]
+4pda.ru##a[href^="https://mc.yandex.ru/"]
+4pda.ru##a[href^="http://oxn.gerkon.eu/"]
+4pda.ru##img[src="http://s.4pda.to/forum/style_images/4_4pda_forum_logo.png"]
+4pda.ru##img[src="http://s.4pda.to/img/site/none.gif"]
+4pda.ru##img[src="http://s.4pda.to/img/site/wt_70y_1920.jpg"]
+4pda.ru##script[src^="http://www.google-analytics.com/"]
+4pda.ru##script[src^="http://www.liveinternet.ru/"]
+4pda.ru##[class="ad-box"]
+4pda.ru##[id="beacon_"]
+4pda.ru##[id="mediabanner"]
+4pda.ru##[id^="ox_"]
+4pda.ru##[id="top-adbox"]
+4pda.ru##[id^="ya_partner"]
+4pda.ru##[id^="yandex_ad"]
+4pda.ru##div.count-visitor
+4pda.ru##div.promo-box
+4pda.ru##div#ipbwrapper>div.borderwrap-header>table:nth-child(1)
+4pda.ru##div#main:style(background-image: none !important; padding: 0 !important;)
+4pda.ru##div#main > div.holder.no-hidden:style(padding: 0 !important; width: inherit !important;)
+4pda.ru##div#main>div.holder.no-hidden>a 
+4pda.ru##div#main>div.holder.no-hidden>div.brand-page-counters
+4pda.ru##section#twocolumns>aside#sidebar>div.side-box:nth-child(1)
+! Ахтунг про создание темы в корневом разделе
+4pda.ru##div#ipbwrapper>noindex:nth-child(35)>div.borderwrap:nth-child(1)
+
+pikabu.ru###stories_container > .adv_wrap.inner_wrap
+pikabu.ru###right_menu > table
+pikabu.ru###right_menu > .menu-top-tags.login_f
+pikabu.ru##.footer-table.footer_links
+pikabu.ru##.footer-table.footer_links2
+pikabu.ru##.footer-table-bottom.footer-table.footer
+pikabu.ru###wrap > table > tbody > tr > .main-b > .inner_wrap > tbody > tr > td:nth-of-type(2) > .inner_wrap:nth-of-type(2) > tbody > tr > td:nth-of-type(2) > noindex > .b-social
+pikabu.ru###right_menu > .menu-block.login_f:nth-of-type(7)
+pikabu.ru##DIV[class="header_links"],DIV[class="login_f"],DIV[class="border: 1px solid #d7d7d7; height: auto; border-radius: 5px; position: relative"],DIV[style="border: 1px solid #d7d7d7; height: auto; border-radius: 5px"],DIV[style="height: auto; border-radius: 5px"],DIV[style="width: auto; margin-right: 35px; background: -o-linear-gradient(top, #fdf9d1 0px, #faf5bd 100%) transparent; background: -webkit-linear-gradient(top,#fdf9d1 0,#faf5bd 100%); background: -moz-linear-gradient(center top , #fdf9d1 0px, #faf5bd 100%) repeat scroll 0 0 transparent; background-color: #fdf9d1; border-radius: 4px; margin-bottom: 15px; max-width: 775px;margin-left: 0;"],TABLE[width="100%"].footer_links,TABLE[width="100%"].footer_links2,TABLE[width="100%"].footer,DIV[style="width: auto; font-size: 16px; padding: 0px 0 5px 19px;min-height: 100px"],TABLE[class="inner_wrap adv_wrap"],TABLE[style="border: 1px solid #d7d7d7; border-radius: 5px; width: 302px; margin: 15px 0 0 5px;text-align: center"],DIV[style="width: 100%; background: url('http://s.pikabu.ru/images/header_bg.gif') #f0f0f0 repeat-x bottom;"],A[href^="http://warthunder.ru/ru/"]>DIV,A[href^="http://cpm.wargaming.net/3rv9rmmy/"]>DIV,A[href^="http://cpm.wargaming.net/aklmtsn6/"]>DIV
+
+! 03.09.2015, 19:52:49 http://megamozg.ru/
+megamozg.ru###layout > .inner > .dont-add-our-site-pls
+
+! 09.09.2015, 15:53:21 http://habrahabr.ru/
+habrahabr.ru###layout > .inner > .dont-add-our-site-pls
+
+! 04.09.2015, 16:41:59 http://www.aliexpress.com/
+www.aliexpress.com###p4p-right-side-wrap
+
+! 04.09.2015, 18:42:57 http://mysku.ru/
+mysku.ru##DIV[class="footer_centering"],UL[class="social_list"]
+mysku.ru###content > .additional-materials-list
+mysku.ru###sidebar > .sidebar_container > .clr.side_block > .border.stream.block:nth-of-type(5)
+mysku.ru###sidebar > .sidebar_container > .clr.side_block > .border.stream.block
+mysku.ru###sidebar > .sidebar_container > .clr.side_block > .border.blogs.block
+
+! 05.09.2015, 14:18:29 http://pikabu.ru/
+pikabu.ru###LinkRedirectorExchangedMarker
+
+! 09.09.2015, 23:00:58 http://geektimes.ru/company/robohunter/blog/262094/
+geektimes.ru###layout > .inner > .dont-add-our-site-pls
+
+! 30.09.2015, 15:36:11 http://pikabu.ru/
+pikabu.ru###branding_ad_header
+
+! 30.09.2015, 15:36:29 http://pikabu.ru/
+pikabu.ru###branding_ad_comment
+
+! 30.09.2015, 15:37:02 http://pikabu.ru/
+pikabu.ru###branding_ad_footer
+
+! 21.10.2015, 12:00:11 http://www.onliner.by/
+onliner.by###container > .g-container-outer > .l-gradient-wrapper > .g-middle > .g-middle-i > .b-main-page-news-2.b-main-page-grid-4:nth-of-type(4)
+
+! 2023-03-11 https://www.onliner.by
+onliner.by##.b-main-page-catalog-layer.b-main-page-grid-6
+onliner.by##.b-news-layer
+onliner.by###onliner-catalog-purchases > .cfix.b-main-page-blocks-header-2 > .b-main-page-tabs
+onliner.by###onliner-catalog-purchases
+onliner.by###onliner-belarus-layer > .cfix.b-main-page-blocks-header-2
+onliner.by###onliner-best-layer > .cfix.b-main-page-blocks-header-2
+
+! 2023-09-12 https://www.onliner.by
+onliner.by###onliner-catalog-purchases > .b-best-layer
+
+! 2023-09-18 http://tragtorr.in
+tragtorr.in###block
