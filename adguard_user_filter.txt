@@ -392,3 +392,8 @@ onliner.by###onliner-catalog-purchases > .b-best-layer
 
 ! 2023-09-18 http://tragtorr.in
 tragtorr.in###block
+
+! 23 сент. 2024 г. https://www.onliner.by
+www.onliner.by##div.b-main-page-best-layer:nth-of-type(10)
+www.onliner.by##div.b-main-page-best-layer:nth-of-type(15)
+www.onliner.by##div.b-main-page-best-layer:nth-of-type(17)
