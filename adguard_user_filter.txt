@@ -398,33 +398,3 @@ www.onliner.by##div.b-main-page-best-layer:nth-of-type(10)
 www.onliner.by##div.b-main-page-best-layer:nth-of-type(15)
 www.onliner.by##div.b-main-page-best-layer:nth-of-type(17)
 
-! Перенаправление с yandex.ru на ya.ru
-||yandex.ru^$redirect=301,domain=yandex.ru
-
-ya.ru##.qi3amnnkpsIri-Card_qpF2Bg3Ihk4_m.qi3amnnkpsIri-Card
-ya.ru##.qi3amnnkpsIri-Card.ImagesViewer-ProductsCarousel
-ya.ru##.Scroller-Wrap
-ya.ru###AdvRsyaCrossPage-cross-page-43663205869f87248ad4b2dad778312f
-ya.ru###AdvRsyaCrossPage-cross-page-09444ec0eab61b07a60e8952d16cff58
-ya.ru###AdvRsyaCrossPage-cross-page-faa5f7d80c074b1f2204e4fd12f70ccb
-ya.ru###AdvRsyaCrossPage-cross-page-78a5cbbf85f6b1aad101aae28e09fd02
-ya.ru##.DistributionLinkBro-Link.Link
-ya.ru##.RelatedBottom-Items
-ya.ru##.Typo_type_bold.Typo_text_l.Typo.Related-Header
-ya.ru##.uI3cjYFYluIc
-ya.ru##.qgluHkn44m4X8toXWContainer
-ya.ru##div.body__content:nth-of-type(3)
-ya.ru##.RelatedBottom.VanillaReact
-ya.ru##.DistributionLinkBro-Link.Link
-ya.ru##.Scroller-Wrap
-ya.ru##.uEXYnXR4opYOV > .Root_inited.Root
-ya.ru##.RelatedBottom-Items
-ya.ru##.Typo_type_bold.Typo_text_l.Typo.Related-Header
-ya.ru##.main__carousel-item > .serp-item > .Root_inited.Root
-||avatars.mds.yandex.net/i?id=922cd4fba9cef97870285313cb5e445b5cc4fb42-10244736-images-thumbs&n=13$image
-ya.ru##.ImagesViewer-qlVuRkn8toKr0qQ > .qgluHkn44m4X8toXW-Wrapper_qoFuZm3go.qgluHkn44m4X8toXW-Wrapper > .qgluHkn44m4X8toXW_qoFuZm3go.qgluHkn44m4X8toXW > .qgluHkn44m4X8toXWContainer
-ya.ru##.ImagesViewer-qlVuRkn8toKr0qQ
-yandex-images.clstorage.net##.ImagesViewer-ProductsCarousel.qi3amnnkpsIri-Card
-ya.ru##.ImagesViewer-ProductsCarousel.qi3amnnkpsIri-Card
-yandex-images.clstorage.net##.ImagesViewer-ProductsCarousel.qi3amnnkpsIri-Card
-ya.ru##.nacf51e3d
